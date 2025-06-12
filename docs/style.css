@@ -1,6 +1,10 @@
 
 body{
-    background: aqua;
+    background: red;
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    align-items: center;
 }
 h1{
     background: aqua;
